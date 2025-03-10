@@ -1,6 +1,3 @@
-### Hi there 👋
-
-These are mine stats:
 
 [![Martian-0007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martian-0007&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Martian-0007's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Martian_0007&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
