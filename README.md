@@ -4,9 +4,11 @@
 [![Martian-0007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martian-0007&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Languages
+
 #### First in volume:  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martian-0007&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-### And in time:  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martian-0007&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#### And in time:  
 [![Martian-0007's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Martian_0007&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
